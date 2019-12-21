@@ -1,0 +1,3 @@
+/home/kai7/github-kai7/cmake-tutorial/tutorial/build/step-01/CMakeFiles/rebuild_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/tutorial/build/step-01/CMakeFiles/Tutorial.dir
+/home/kai7/github-kai7/cmake-tutorial/tutorial/build/step-01/CMakeFiles/edit_cache.dir
