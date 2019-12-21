@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kai7/github-kai7/cmake-tutorial/tutorial/step-02/MathFunctions/MathFunctions.h
+
+/home/kai7/github-kai7/cmake-tutorial/tutorial/step-02/tutorial.cxx
+cmath
+-
+iostream
+-
+string
+-
+TutorialConfig.h
+/home/kai7/github-kai7/cmake-tutorial/tutorial/step-02/TutorialConfig.h
+MathFunctions.h
+/home/kai7/github-kai7/cmake-tutorial/tutorial/step-02/MathFunctions.h
+
+TutorialConfig.h
+
