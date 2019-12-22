@@ -1,0 +1,6 @@
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/install_path/calc/lib/libcalc.so
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/install_path/calc/include/calc.h
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/install_path/calc/lib/libcalc.a
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/install_path/calc/include/calc.h
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/install_path/calc/doc/doc.txt
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/install_path/calc/readme.txt

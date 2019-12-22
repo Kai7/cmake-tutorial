@@ -1,0 +1,8 @@
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/build/CMakeFiles/install/local.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/build/CMakeFiles/calc-static.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/build/CMakeFiles/install/strip.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/build/CMakeFiles/calc.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/build/CMakeFiles/edit_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/build/CMakeFiles/rebuild_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/build/CMakeFiles/list_install_components.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/build/CMakeFiles/install.dir

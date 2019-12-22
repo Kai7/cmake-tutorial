@@ -1,0 +1,8 @@
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/ex2/build/CMakeFiles/rebuild_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/ex2/build/CMakeFiles/edit_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/ex2/build/app/CMakeFiles/rebuild_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/ex2/build/app/CMakeFiles/app.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/ex2/build/app/CMakeFiles/edit_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/ex2/build/calc/CMakeFiles/rebuild_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/ex2/build/calc/CMakeFiles/calc.dir
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/ex2/build/calc/CMakeFiles/edit_cache.dir

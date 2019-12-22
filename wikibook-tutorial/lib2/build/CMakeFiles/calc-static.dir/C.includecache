@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/src/calc.c
+calc.h
+-
+
+/home/kai7/github-kai7/cmake-tutorial/wikibook-tutorial/lib2/src/calc.h
+
