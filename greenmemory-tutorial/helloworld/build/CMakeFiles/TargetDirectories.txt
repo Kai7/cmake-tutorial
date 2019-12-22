@@ -1,0 +1,3 @@
+/home/kai7/github-kai7/cmake-tutorial/greenmemory-tutorial/helloworld/build/CMakeFiles/rebuild_cache.dir
+/home/kai7/github-kai7/cmake-tutorial/greenmemory-tutorial/helloworld/build/CMakeFiles/intellij_taste.dir
+/home/kai7/github-kai7/cmake-tutorial/greenmemory-tutorial/helloworld/build/CMakeFiles/edit_cache.dir
